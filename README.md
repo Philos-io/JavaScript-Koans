@@ -4,7 +4,7 @@ We just added the possibility to run it using `node` and `npm`
 
 How do you run it using node:
 
-Clone this project then run 'npm install $$ npm start'
+Clone this project then run ```npm install $$ npm start```
 
 This should open you a browser and give you a nice live reload
 
