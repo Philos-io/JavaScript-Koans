@@ -1,0 +1,9 @@
+{
+  "files": [
+    "support/koans"
+  ],
+  "tests": [
+    "topics/*.js"
+  ],
+  "testFramework": "qunit@1.16.0"
+}
