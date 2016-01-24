@@ -1,0 +1,23 @@
+{
+  "name": "JavaScript-Koans",
+  "version": "1.0.0",
+  "description": "Update ======",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liammclennan/JavaScript-Koans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liammclennan/JavaScript-Koans/issues"
+  },
+  "homepage": "https://github.com/liammclennan/JavaScript-Koans#readme",
+  "devDependencies": {
+    "live-server": "^0.9.1"
+  }
+}

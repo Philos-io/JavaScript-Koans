@@ -1,14 +1,13 @@
-Update
-======
+This repo is a fork of liammclennan/JavaScript-Koans;
 
-> If you like JavaScript Koans you might enjoy my newer, more user friendly, project [Didacto: JavaScript](http://javascript.didacto.net/)
+We just added the possibility to run it using `node` and `npm`
 
-JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence. 
+How do you run it using node:
 
-The inspiration for this project comes from the Edgecase Ruby Koans and the book 'Javascript: The Good Parts'.
+Clone this project then run 'npm install $$ npm start'
 
-Open the file jskoans.htm in your favourite browser and make the tests pass.
+This should open you a browser and give you a nice live reload
 
-The koans use the [Qunit](http://qunitjs.com/) test syntax and test runner. 
+For those using WallabyJS, just run it and you'll be on your way to master JS syntax
 
-Get started with Ryan Anklam's [Learn JavaScript completely On the Cloud With the JavaScript Koans and Cloud9 IDE](http://blog.bittersweetryan.com/2011/08/learn-some-javascript-completely-on.html)
+---
